@@ -8,4 +8,4 @@ If you like add a line starting with two hashes (##) mentioning your tool/config
 
 ## ELK stack
 
-github.com/simao-silva/elk-stack
+https://github.com/simao-silva/elk-stack
