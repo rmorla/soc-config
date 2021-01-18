@@ -9,3 +9,7 @@ If you like add a line starting with two hashes (##) mentioning your tool/config
 ## ELK stack
 
 https://github.com/simao-silva/elk-stack
+
+## ModSecurity WAF with ELK stack
+
+https://github.com/CodeRotation/UP_SO_proj1
