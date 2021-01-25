@@ -13,3 +13,7 @@ https://github.com/simao-silva/elk-stack
 ## ModSecurity WAF with ELK stack
 
 https://github.com/CodeRotation/UP_SO_proj1
+
+## Graylog Installation
+
+https://github.com/rafangello/graylog-server-notes
